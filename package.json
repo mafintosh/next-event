@@ -1,6 +1,6 @@
 {
   "name": "next-event",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Call a function the next time a specific event is emitted",
   "main": "index.js",
   "dependencies": {},
