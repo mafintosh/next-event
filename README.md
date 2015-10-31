@@ -8,7 +8,7 @@ npm install next-event
 
 [![build status](http://img.shields.io/travis/mafintosh/next-event.svg?style=flat)](http://travis-ci.org/mafintosh/next-event)
 
-Basically like `.once` but faster.
+Basically like `.once` but faster since it won't gc the event handler on every event.
 
 ## Usage
 
